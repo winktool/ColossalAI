@@ -4,7 +4,7 @@ pudb==2019.2
 prefetch_generator
 imageio==2.9.0
 imageio-ffmpeg==0.4.2
-torchmetrics==0.6
+torchmetrics
 omegaconf==2.1.1
 test-tube>=0.7.5
 streamlit>=0.73.1
